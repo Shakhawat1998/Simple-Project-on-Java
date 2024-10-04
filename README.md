@@ -25,6 +25,22 @@ This project can be expanded for educational purposes, quizzes, or test automati
 3. **Simple JSON Library**
 4. **IntelliJ IDEA**
 
+# How to Run the Whole Project in IntelliJ IDEA
+
+1. **Clone the Repository**
+2. **Open IntelliJ IDEA**
+3. **Import the Project**
+4. **Configure the Project SDK**
+5. **Add Dependencies**
+   - Add Simple json dependency in `build.gradle`
+7. **Build the Project**
+8. **Run the Main Class**
+   - Right-click on `HomePage.java` and select `Run 'HomePage.main()'`.
+9. **Interact with the Application**
+   - Follow the console prompts to log in and use the application.
+10. **Stop the Application**
+
+
 # Whole Project Architecture
 
 The project is divided into distinct modules (Java classes) that handle specific functionalities, such as user login,quiz management, and file handling. Each module has a specific purpose and can be modified independently. 
