@@ -1,0 +1,282 @@
+[
+  {
+    "answerkey": "4",
+    "option 3": "Load Testing ",
+    "option 4": "Unit Testing ",
+    "question": "Which is not part of system testing? ",
+    "option 1": "Regression Testing ",
+    "option 2": "Sanity Testing "
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Decision table testing ",
+    "option 4": "Adhoc Testing ",
+    "question": "Which is whitebox testing technique? ",
+    "option 1": "Equivalent Partitioning ",
+    "option 2": "Boundary value testing "
+  },
+  {
+    "answerkey": "2",
+    "option 3": "To ensure the software meets only technical specifications.",
+    "option 4": "To document the software development process thoroughly.",
+    "question": "What is the primary objective of software testing?",
+    "option 1": "To improve software performance by optimizing the code.",
+    "option 2": "To find gaps, errors, or missing requirements compared to the actual desires or requirements."
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Reducing the cost of fixing issues in production through early bug detection.",
+    "option 4": "Improving the development speed by shortening the coding phase.",
+    "question": "Which of the following is not a benefit of software testing?",
+    "option 1": "Ensuring software functions correctly by identifying and fixing defects.",
+    "option 2": "Guaranteeing the software meets defined standards and requirements."
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Improving the aesthetic design of the software interface.",
+    "option 4": "Reducing the level of risk of inadequate software quality.",
+    "question": "Which of the following is not a primary objective of software testing?",
+    "option 1": "Ensuring required coverage of a test object.",
+    "option 2": "Verifying whether specified requirements have been fulfilled."
+  },
+  {
+    "answerkey": "2",
+    "option 3": "QA tests functionality, QC tests security.",
+    "option 4": "QA meets regulations, QC satisfies customers.",
+    "question": " Which of the following best describes the primary difference between Quality Assurance (QA) and Quality Control (QC)?",
+    "option 1": "QA identifies defects, QC ensures process adherence.",
+    "option 2": "QA prevents defects, QC identifies defects."
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Error: Developer misunderstanding the requirement; Defect: Incorrect code; Failure: Users reporting crashes.",
+    "option 4": "Error: Lack of clear documentation; Defect: Application crashes frequently; Failure: Incorrect code.",
+    "question": "A developer misunderstands a requirement due to a lack of clear documentation and writes incorrect code for a feature. During testing, it is discovered that this incorrect code causes the application to crash when a specific function is used. Subsequently, when the software is released, users report that the application crashes frequently, making it unusable for its intended purpose. Identify the error, defect, and failure in this scenario.",
+    "option 1": "Error: Users reporting crashes; Defect: Application crash during testing; Failure: Incorrect code.",
+    "option 2": "Error: Incorrect code; Defect: Application crashes frequently; Failure: Developer misunderstanding the requirement."
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Both",
+    "option 4": "None of the above",
+    "question": "A user, who should not have access, can view the admin report portal. What is the most likely root cause of this security issue?",
+    "option 1": "Authentication",
+    "option 2": "Authorization"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Early testing saves time and money.",
+    "option 4": "Defects cluster together.",
+    "question": "A software development team has conducted extensive testing on their latest application update. During testing, they identified and fixed several critical bugs. Despite not finding any additional defects in the subsequent rounds of testing, the application still crashes occasionally in the production environment when users perform complex actions.",
+    "option 1": "Exhaustive testing is impossible.",
+    "option 2": "Testing shows the presence, not the absence of defects."
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Test Execution",
+    "option 4": "Requirement Analysis",
+    "question": "Acceptance criteria is written in which phase?",
+    "option 1": "Test Design",
+    "option 2": "Test Analysis"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Agile team",
+    "option 4": "External QA consultants",
+    "question": "In Agile development, who is typically responsible for handling some test management tasks?",
+    "option 1": "Dedicated testing team",
+    "option 2": "Project manager"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "curiosity",
+    "option 4": "creativity",
+    "question": "To identify defects, which skill is essentially needed for a QA engineer?",
+    "option 1": "Analytical thinking",
+    "option 2": "critical thinking"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "BDD",
+    "option 4": "FDD",
+    "question": "Which development approach often translated automatically into executable tests?",
+    "option 1": "ATDD",
+    "option 2": "TDD"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "To demonstrate completed work to the customer and get feedback.",
+    "option 4": "To plan the next sprint by selecting high-priority tasks.",
+    "question": "In Agile development, what is the primary purpose of the \"Review and demo\" activity?",
+    "option 1": "To define the project's goals and objectives.",
+    "option 2": "To create and prioritize a list of tasks in the backlog."
+  },
+  {
+    "answerkey": "2",
+    "option 3": "1>4>2>3",
+    "option 4": "4>1>2>3",
+    "question": "Order the following test strategies: 1. feature testing 2. integration testing 3. smoke testing 4. regression testing",
+    "option 1": "1>2>4>3",
+    "option 2": "2>1>3>4"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "common test objectives",
+    "option 4": "multiple test objectives",
+    "question": "Different test level has",
+    "option 1": "different but similar test objectives",
+    "option 2": "specific and different test objectives"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "As soon as the prototype is ready",
+    "option 4": "As soon as the management tells to start",
+    "question": "When should testers review documents?",
+    "option 1": "When requirements come",
+    "option 2": "As soon as the drafts are ready"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "OAT",
+    "option 4": "A\/B Testing",
+    "question": "Which test type is not under UAT?",
+    "option 1": "Alpha Testing",
+    "option 2": "Beta Testing"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "technology facing, critique the product",
+    "option 4": "business facing, critique the product",
+    "question": "Which describe smoke test?",
+    "option 1": "technology facing, support the team",
+    "option 2": "business facing, support the team"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "59, 64, 66, 70, 75, 82, 86, 95",
+    "option 4": "59, 64, 66, 70, 74, 82, 86, 90, 95",
+    "question": "Here is an exam grading system: A+(90-100), A(85-89), A-(80-84), B+(75-79), B(70-74), C(65-69), D(60-64), Rest of marks are considered as failed (F) Which option represents correct equivalence partitioning?",
+    "option 1": "55, 75, 84, 98",
+    "option 2": "59, 60, 61, 98, 99, 100"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Reducing the risk of fundamental design defects",
+    "option 4": "Reducing the risk of untestable functionality",
+    "question": "A tester participated in a discussion about proposed database structure. The tester identified a potential performance problem related to certain common user searches. This possible problem was explained to the development team. Which of the following is a testing contribution to success that BEST matches this situation?",
+    "option 1": "Enabling required tests to be identified at an early stage",
+    "option 2": "Ensuring processes are carried out properly"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Priority: High, Severity: High",
+    "option 4": "Priority: Low, Severity: High",
+    "question": "Imagine you are testing a video streaming application. You have found a bug where, under heavy load, the application sometimes fails to restrict access to premium content. This failure allows non-subscribers to view and download exclusive videos without proper authorization. What is the appropriate priority and severity for this issue?",
+    "option 1": "Priority: High, Severity: Low",
+    "option 2": "Priority: Low, Severity: Low"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "statement coverage 2 branch coverage 1",
+    "option 4": "statement coverage 2 branch coverage 2",
+    "question": "For the code fragment given below, which answer correctly represents minimum tests required for statement and branch coverage respectively? function findSqrt(number){ if(number>0){ return Math.sqrt(number) } return -1 }",
+    "option 1": "statement coverage 1 branch coverage 1",
+    "option 2": "statement coverage 1 branch coverage 2"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "4,5,100,101",
+    "option 4": "19,20,100,101",
+    "question": "A wholesaler sells Jeans Pant. The minimum order quantity is 5. There is a 20% discount for orders of 100 or more Jeans Pant. You have been asked to prepare test cases using various values for the number of Jeans Pant ordered. Which of the following option is correct for 2-BVA values?",
+    "option 1": "4,5,99,100",
+    "option 2": "19,20,99,100"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Smoke Testing",
+    "option 4": "Sanity Testing",
+    "question": "Which is called the confidence testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Integration Testing"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "29,30,31,32",
+    "option 4": "32,33,39,40",
+    "question": "If a candidate is giving an exam of 40 questions, should get 25 marks to pass (61%) and should get 80% for distinction, which values are under the same equivalence partition?",
+    "option 1": "24,25,39 ,40",
+    "option 2": "25, 26, 39, 40"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Adhoc Testing",
+    "option 4": "All of the above",
+    "question": "Testing without a real plan is called",
+    "option 1": "Monkey testing",
+    "option 2": "Gorilla Testing"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "You can do more effective testing",
+    "option 4": "You can find more important bugs",
+    "question": "Why test prioritization is important?",
+    "option 1": "You shorten the testing time",
+    "option 2": "You can perform the best testing within the deadline"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Only System Testing",
+    "option 4": "All testing level",
+    "question": "Equivalence Partitioning is applicable for",
+    "option 1": "Unit Testing",
+    "option 2": "System Testing"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "30001",
+    "option 4": "95001",
+    "question": "In a system designed to calculate the tax to be paid, an employee has a tax-free salary of 50,000 Tk. The next 15,000 Tk is taxed at 10%, and the subsequent 30,000 Tk is taxed at 15%. Any additional amount is taxed at 25%. To the nearest amount, which of the following is a valid Boundary Value Analysis test case?",
+    "option 1": "50001",
+    "option 2": "64999"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Decision Table Testing",
+    "option 4": "Condition Testing",
+    "question": "Which is not whitebox testing technique?",
+    "option 1": "Statement Testing",
+    "option 2": "Decision Testing"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "1C, 2D, 3A, 4B",
+    "option 4": "1D, 2C, 3D, 4A",
+    "question": "Match the following terms and statements. 1.Decision Table Testing 2.Decision Testing 3.State Transition Testing 4.Exploratory Testing A. Testing carried out to achieve specific test objectives within a timeframe. B. A test technique used which may be used to verify different system re depending on current conditions or previous history. C. A test technique which combines combinations of inputs that might not otherwise have been exercised during testing. D. A form of control flow testing based on decision outcomes",
+    "option 1": "1D, 2B, 3C, 4A",
+    "option 2": "1C,2D, 3B, 4A"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "A stage of all projects",
+    "option 4": "None of the above",
+    "question": "Which term is used to define testing?",
+    "option 1": "Evaluating deliverable to find errors",
+    "option 2": "Finding broken code"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Incident reports",
+    "option 4": "Entry and exit criteria",
+    "question": "Which of the below is not a part of the Test Plan?",
+    "option 1": "Schedule",
+    "option 2": "Risk"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Procedure Errors",
+    "option 4": "None of the mentioned",
+    "question": "What is the key objective of Integration testing?",
+    "option 1": "Design Errors",
+    "option 2": "Interface Errors"
+  }
+]
